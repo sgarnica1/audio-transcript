@@ -1,0 +1,1 @@
+python3 script.py --input "input" --output "output" --model base
